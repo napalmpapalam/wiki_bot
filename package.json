@@ -1,0 +1,23 @@
+{
+  "name": "telegram_wiki_bot",
+  "version": "1.0.0",
+  "description": "My first node js telegram wiki bot",
+  "main": "bot.js",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/napalmpapalam/pet.git"
+  },
+  "author": "Semen Loktionov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/napalmpapalam/pet/issues"
+  },
+  "homepage": "https://github.com/napalmpapalam/pet#readme"
+}
